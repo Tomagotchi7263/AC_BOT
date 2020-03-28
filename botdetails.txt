@@ -1,0 +1,4 @@
+ClientID 692004778510909481
+BotToken NjkyMDA0Nzc4NTEwOTA5NDgx.XnoN7g.F69NFfJcigVwsOTu7IN_J5uGz4o
+
+ https://discordapp.com/oauth2/authorize?client_id=692004778510909481

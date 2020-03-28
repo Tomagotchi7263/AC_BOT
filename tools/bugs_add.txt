@@ -1,0 +1,80 @@
+Common butterfly|Common Butterfly HHD Icon|160|Flying|4AM - 7PM|1|1|1|1|1|1|0|0|1|1|1|1
+Yellow butterfly|Yellow Butterfly HHD Icon|160|Flying|4AM - 7PM|0|0|1|1|1|1|0|0|1|1|0|0
+Tiger butterfly|Tiger Butterfly HHD Icon|240|Flying|4AM - 7PM|0|0|1|1|1|1|1|1|1|0|0|0
+Peacock butterfly|Peacock Butterfly HHD Icon|2,500|Flying by rare flowers|4AM - 7PM|0|0|1|1|1|1|0|0|0|0|0|0
+Common bluebottle|Common Bluebottle NH Icon|300|Flying|4AM - 7PM|0|0|0|1|1|1|1|1|0|0|0|0
+Paper kite butterfly|Paper Kite Butterfly NH Icon|1000|Flying|8AM - 7PM|1|1|1|1|1|1|1|1|1|1|1|1
+Great purple emperor|Great Purple Emperor NH Icon|3000|Flying|4AM - 7PM|0|0|0|0|1|1|1|1|0|0|0|0
+Monarch butterfly|Monarch Butterfly HHD Icon|140|Flying|4AM - 5PM|0|0|0|0|0|0|0|0|1|1|1|0
+Emperor butterfly|Emperor Butterfly HHD Icon|4000|Flying|5PM - 8AM|1|1|1|0|0|1|1|1|1|0|0|1
+Agrias butterfly|Agrias Butterfly HHD|3000|Flying|8AM - 5PM|0|0|0|1|1|1|1|1|1|0|0|0
+Rajah Brooke's birdwing|Rajahbrookes|2500|Flying|8AM - 5PM|1|1|0|1|1|1|1|1|1|0|0|1
+Queen Alexandra's birdwing|Queenalex|4000|Flying|8AM - 4PM|0|0|0|0|1|1|1|1|1|0|0|0
+Moth|Moth HHD Icon|130|Flying by light|7PM - 4AM|1|1|1|1|1|1|1|1|1|1|1|1
+Atlas moth|Atlasmoththumb|3000|On Trees|7PM - 4AM|0|0|0|1|1|1|1|1|1|0|0|0
+Madagascan sunset moth|Madagascan Sunset Moth NH Icon|2500|Flying|8AM - 4PM|0|0|0|1|1|1|1|1|1|0|0|0
+Long locust|Long Locust HHD Icon|200|Hopping|8AM - 7PM|0|0|0|1|1|1|1|1|1|1|1|0
+Migratory locust|Migratory Locust HHD Icon|600|Hopping|8AM - 7PM|0|0|0|0|0|0|0|1|1|1|1|0
+Rice grasshopper|Rice Grasshopper HHD Icon|160|Hopping|8AM - 7PM|0|0|0|0|0|0|0|1|1|1|1|0
+Grasshopper|Grasshopper HHD Icon|160|Hopping|8AM - 5PM|0|0|0|0|0|0|1|1|1|0|0|0
+Cricket|Cricket HHD Icon|130|Hopping|5PM - 8AM|0|0|0|0|0|0|0|0|1|1|1|0
+Bell cricket|Bell Cricket HHD Icon|430|Hopping|5PM - 8AM|0|0|0|0|0|0|0|0|1|1|0|0
+Mantis|Mantis HHD Icon|430|On Flowers|8AM - 5PM|0|0|1|1|1|1|1|1|1|1|1|0
+Orchid mantis|Orchid Mantis HHD Icon|2400|On flowers (White)|8AM - 5PM|0|0|1|1|1|1|1|1|1|1|1|0
+Honeybee|Honeybee HHD Icon|200|Flying|8AM - 5PM|0|0|1|1|1|1|1|0|0|0|0|0
+Wasp|Bee HHD Icon|2,500|Shake tree|All day|1|1|1|1|1|1|1|1|1|1|1|1
+Brown Cicada||Brown Cicada HHD|?|On Trees|8AM - 5PM|0|0|0|0|0|0|1|1|0|0|0|0
+Robust Cicada|Robust Cicada HHD|?|On Trees|8AM - 5PM|0|0|0|0|0|0|1|1|0|0|0|0
+Giant Cicada|Giant Cicada HHD|?|On Trees|8AM - 5PM|0|0|0|0|0|0|1|1|0|0|0|0
+Walker cicada|Walker Cicada HHD Icon|400|On Trees|8AM - 5PM|0|0|0|0|0|0|0|1|1|0|0|0
+Evening Cicada|Evening Cicada HHD|?|On Trees|4AM - 8AM & 4PM - 7PM|0|0|0|0|0|0|1|1|0|0|0|0
+Cicada shell|Cicada Shell HHD Icon|?|On Trees|All day|0|0|0|0|0|0|1|1|0|0|0|0
+Red dragonfly|Red Dragonfly HHD Icon|180|Flying|8AM - 7PM|0|0|0|0|0|0|0|0|1|1|0|0
+Darner dragonfly|Darner Dragonfly HHD Icon|230|Flying|8AM - 5PM|0|0|0|1|1|1|1|1|1|1|0|0
+Banded dragonfly|Banded Dragonfly HHD Icon|4,500|Flying|8AM - 5PM|0|0|0|0|1|1|1|1|1|1|0|0
+Damselfly|Damselfly NH Icon|?|Flying|All day|1|1|0|0|0|0|0|0|0|0|1|1
+Firefly|Unknown|?|Flying|7PM - 4AM|0|0|0|0|0|1|0|0|0|0|0|0
+Mole cricket|Mole Cricket HHD Icon|500|Underground|All day|1|1|1|1|1|0|0|0|0|0|1|1
+Pondskater|Pondskater HHD Icon|130|On Ponds and Rivers|8AM - 7PM|0|0|0|0|1|1|1|1|1|0|0|0
+Diving beetle|Diving Beetle HHD Icon|800|On Ponds and Rivers|8AM - 7PM|0|0|0|0|1|1|1|1|1|0|0|0
+Giant water bug|Giant Water Bug NH Icon|2000|On Ponds and Rivers|7PM - 8AM|0|0|0|1|1|1|1|1|1|0|0|0
+Stinkbug|Stinkbug (New Leaf icon)|120|On flowers|All day|0|0|1|1|1|1|1|1|1|1|0|0
+Man-faced stink bug|Man0faced Stink Bug NH Icon|1000|On flowers|7PM - 8AM|0|0|1|1|1|1|1|1|1|1|0|0
+Ladybug|Ladybug HHD Icon|200|On flowers|8AM - 5PM|0|0|1|1|1|1|0|0|0|1|0|0
+Tiger beetle|Tiger Beetle HHD Icon|1,500|On the ground|All day|0|1|1|1|1|1|1|1|1|1|0|0
+Jewel beetle|Unknown|2,400|On Tree Stumps|All day|0|0|0|1|1|1|1|1|0|0|0|0
+Violin beetle|Violinbeetle|450|On a tree stump|All day|0|0|0|0|1|1|0|0|1|1|1|0
+Citrus Long-horned Beetle|Citrus Long0horned Beetle NH icon|350|On a tree stump|All day|1|1|1|1|1|1|1|1|1|1|1|1
+Rosalia batesi beetle|Rosalia Batesi Beetle NH Icon|3000|On a tree stump|All day|0|0|0|0|1|1|1|1|1|0|0|0
+Blue weevil beetle|Blue Weevil Beetle NH Icon|?|?|All day|0|0|0|0|0|0|1|1|0|0|0|0
+Dung beetle|Unknown|?|On ground (rolling snowballs)|All day|1|1|0|0|0|0|0|0|0|0|0|1
+Earth-boring Dung Beetle|Earth0Boring Dung Beetle NH Icon|300|On Ground|All day|0|0|0|0|0|0|1|1|1|0|0|0
+Scarab beetle|Unknown|?|On Tree|11PM 0 8AM|0|0|0|0|0|0|1|1|0|0|0|0
+Drone beetle|Drone Beetle NH Icon|200|On Tree|All day|0|0|0|0|0|1|1|1|0|0|0|0
+Goliath beetle|Unknown|8000|On Tree (Palm)|5PM - 8AM|0|0|0|0|0|1|1|1|1|0|0|0
+Saw stag|Unknown|?|On Trees|All day|0|0|0|0|0|0|1|1|0|0|0|0
+Miyama stag|Unknown|1000|On Trees|All day|0|0|0|0|0|0|1|1|0|0|0|0
+Giant stag|Unknown|10000|On Trees|11PM - 8AM|0|0|0|0|0|0|1|1|0|0|0|0
+Rainbow stag|Unknown|6000|On Trees|7PM - 8AM|0|0|0|0|0|1|1|1|1|0|0|0
+Cyclommatus stag|Unknown|?|On Trees|5PM - 8AM|0|0|0|0|0|0|1|1|0|0|0|0
+Golden stag|Unknown|?|On Trees|5PM - 8AM|0|0|0|0|0|0|1|1|0|0|0|0
+Giraffe stag|Giraffe Stag NH Icon|?|On Trees|5PM - 8AM|0|0|0|0|0|0|1|1|0|0|0|0
+Horned dynastid|Unknown|1350|On Trees|5PM - 8AM|0|0|0|0|0|0|1|1|0|0|0|0
+Horned atlas|Unknown|?|On Trees|5PM - 8AM|0|0|0|0|0|0|1|1|0|0|0|0
+Horned elephant|Unknown|?|On Trees|5PM - 8AM|0|0|0|0|0|0|1|1|0|0|0|0
+Horned hercules|Unknown|?|On Trees|5PM - 8AM|0|0|0|0|0|0|1|1|0|0|0|0
+Walking stick|Unknown|?|On Trees|4AM - 8AM & 5PM - 7PM|0|0|0|0|0|0|1|1|1|1|1|0
+Walking leaf|Walking Leaf HHD Icon|600|Under Trees Disguised as Leafs|All day|0|0|0|0|0|0|1|1|1|0|0|0
+Bagworm|Bagworm HHD Icon|600|Shaking tree|All day|1|1|1|1|1|1|1|1|1|1|1|1
+Ant|Ant HHD Icon|?|On rotten food|All day|1|1|1|1|1|1|1|1|1|1|1|1
+Hermit crab|Hermit Crab HHD Icon|1000|Beach disguised as shells|7PM - 8AM|1|1|1|1|1|1|1|1|1|1|1|1
+Wharf roach|Wharf Roach HHD Icon|200|On beach rocks|All day|1|1|1|1|1|1|1|1|1|1|1|1
+Fly|NH0Fly|60|On trash items|All Day|1|1|1|1|1|1|1|1|1|1|1|1
+Mosquito|NH0Mosquito|130|Flying|5PM - 4AM|0|0|0|0|0|1|1|1|1|0|0|0
+Flea|NH0Flea|?|Villager's Heads|All day|0|0|0|1|1|1|1|1|1|1|1|0
+Snail|NH0Snail|250|On rocks (Rain)|All day|1|1|1|1|1|1|1|1|1|1|1|1
+Pill bug||NH0Pill0Bug|250|Hit a rock|11PM - 4PM|1|1|1|1|1|1|0|0|1|1|1|1
+Centipede|NH0Centipede|300|Hit a rock|4PM - 11PM|1|1|1|1|1|1|0|0|1|1|1|1
+Spider|NH0Spider|480|Shaking tree|7PM - 8AM|1|1|1|1|1|1|1|1|1|1|1|1
+Tarantula|NH0Tarantula|8000|On the ground|7PM - 4AM|1|1|1|1|0|0|0|0|0|0|1|1
+Scorpion|NH0Scorpion|8000|On the ground|7PM - 4AM|0|0|0|0|1|1|1|1|1|1|0|0

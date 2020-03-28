@@ -1,0 +1,80 @@
+Bitterling|900|fish
+Pale chub|160|fish
+Crucian carp|160|fish
+Dace|240|fish
+Carp|300|fish
+Koi|4,000|fish
+Goldfish|1,300|fish
+Pop-eyed Goldfish|1,300|fish
+Ranchu Goldfish|4,500|fish
+Killifish|300|fish
+Crawfish|200|fish
+Soft-shelled Turtle|3,750|fish
+Snapping Turtle|5,000|fish
+Tadpole|100|fish
+Frog|0|fish
+Freshwater Goby|400|fish
+Loach|400|fish
+Catfish|800|fish
+Giant snakehead|0|fish
+Bluegill|180|fish
+Yellow perch|300|fish
+Black bass|400|fish
+Tilapia|800|fish
+Pike|1,800|fish
+Pond smelt|0|fish
+Sweetfish|900|fish
+Cherry Salmon|1,000|fish
+Char|3,800|fish
+Golden Trout|15,000|fish
+Stringfish|15,000|fish
+Salmon|700|fish
+King Salmon|1,800|fish
+Mitten Crab|2,000|fish
+Guppy|1,300|fish
+Nibble Fish|1,500|fish
+Angelfish|3,000|fish
+Betta|2,500|fish
+Neon tetra|500|fish
+Rainbowfish|800|fish
+Piranha|2,500|fish
+Arowana|10,000|fish
+Dorado|15,000|fish
+Gar|6,000|fish
+Arapaima|10,000|fish
+Saddled Bichir|4,000|fish
+Sturgeon|10,000|fish
+Sea butterfly|1,000|fish
+Seahorse|1,100|fish
+Clownfish|650|fish
+Surgeonfish|1,000|fish
+Butterfly fish|1,000|fish
+Napoleonfish|10,000|fish
+Zebra turkeyfish|500|fish
+Blowfish|0|fish
+Puffer fish|250|fish
+Anchovy|200|fish
+Horse mackerel|150|fish
+Barred knifejaw|5,000|fish
+Sea bass|400|fish
+Red snapper|3,000|fish
+Dab|300|fish
+Olive Flounder|800|fish
+Squid|500|fish
+Moray eel|2,000|fish
+Ribbon Eel|600|fish
+Tuna|7,000|fish
+Blue marlin|10,000|fish
+Giant Trevally|4,500|fish
+Mahi-mahi|6,000|fish
+Ocean Sunfish|4,000|fish
+Ray|3,000|fish
+Saw Shark|12,000|fish
+Hammerhead Shark|8,000|fish
+Great White Shark|15,000|fish
+Whale shark|13,000|fish
+Suckerfish|1,500|fish
+Football Fish|2,500|fish
+Oarfish|9,000|fish
+Barreleye|15,000|fish
+Coelacanth|15,000|fish

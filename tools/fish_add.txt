@@ -1,0 +1,80 @@
+Bitterling|River|1|All day|1|1|1|0|0|0|0|0|0|0|1|1
+Pale chub|River|1|9AM - 4PM|1|1|1|1|1|1|1|1|1|1|1|1
+Crucian carp|River|2|All day|1|1|1|1|1|1|1|1|1|1|1|1
+Dace|River|3|4PM - 9AM|1|1|1|1|1|1|1|1|1|1|1|1
+Carp|Pond|4|All day|1|1|1|1|1|1|1|1|1|1|1|1
+Koi|Pond|4|4PM - 9AM|1|1|1|1|1|1|1|1|1|1|1|1
+Goldfish|Pond|1|All day|1|1|1|1|1|1|1|1|1|1|1|1
+Pop-eyed Goldfish|Pond|1|9AM - 4PM|1|1|1|1|1|1|1|1|1|1|1|1
+Ranchu Goldfish|Pond|2|9AM - 4PM|1|1|1|1|1|1|1|1|1|1|1|1
+Killifish|Pond|1|All day|0|0|0|1|1|1|1|1|0|0|0|0
+Crawfish|Pond|3|All day|0|0|0|1|1|1|1|1|1|0|0|0
+Soft-shelled Turtle|River|?|4PM - 9AM|0|0|0|0|0|0|0|1|1|0|0|0
+Snapping Turtle|River|?|9PM - 4AM|0|0|0|1|1|1|1|1|1|1|0|0
+Tadpole|Pond|1|All day|0|0|1|1|1|1|1|0|0|0|0|0
+Frog|Pond|2|All day|0|0|0|0|1|1|1|1|0|0|0|0
+Freshwater Goby|River|2|4PM - 9AM|1|1|1|1|1|1|1|1|1|1|1|1
+Loach|River|2|All day|0|0|1|1|1|0|0|0|0|0|0|0
+Catfish|Pond|?|4PM - 9AM|0|0|0|0|1|1|1|1|1|1|0|0
+Giant snakehead|Pond|5|9AM 0 4PM|0|0|0|0|0|1|1|1|0|0|0|0
+Bluegill|River|2|9AM 0 4PM|1|1|1|1|1|1|1|1|1|1|1|1
+Yellow perch|River|3|All day|1|1|1|0|0|0|0|0|0|1|1|1
+Black bass|River|4|All day|1|1|1|1|1|1|1|1|1|1|1|1
+Tilapia|River|?|All day|0|0|0|0|0|1|1|1|1|1|0|0
+Pike|River|5|All day|0|0|0|0|0|0|0|0|1|1|1|1
+Pond smelt|River|2|All day|1|1|0|0|0|0|0|0|0|0|0|1
+Sweetfish|River|3|All day|0|0|0|0|0|0|1|1|1|0|0|0
+Cherry Salmon|River (Clifftop)|3|4PM - 9AM|0|0|1|1|1|1|0|0|1|1|1|0
+Char|River (Clifftop) Pond|3|4PM - 9AM|0|0|1|1|1|1|0|0|1|1|1|0
+Golden Trout|River (Clifftop)|3|4PM - 9AM|0|0|1|1|1|0|0|0|1|1|1|0
+Stringfish|River (Clifftop)|5|4PM - 9AM|1|1|1|0|0|0|0|0|0|0|0|1
+Salmon|River (Mouth)|4|All day|0|0|0|0|0|0|0|0|1|0|0|0
+King Salmon|River (Mouth)|6|All day|0|0|0|0|0|0|0|0|1|0|0|0
+Mitten Crab|River|2|4PM - 9AM|0|0|0|0|0|0|0|0|1|1|1|0
+Guppy|River|1|9AM 0 4PM|0|0|0|1|1|1|1|1|1|1|1|0
+Nibble Fish|River|2|9AM 0 4PM|0|0|0|0|1|1|1|1|1|0|0|0
+Angelfish|River|2|4PM - 9AM|0|0|0|0|1|1|1|1|1|1|0|0
+Betta|River|2|9AM 0 4PM|0|0|0|0|1|1|1|1|1|1|0|0
+Neon tetra|River|1|9AM 0 4PM|0|0|0|1|1|1|1|1|1|1|1|0
+Rainbowfish|River|2|9AM 0 4PM|0|0|0|0|1|1|1|1|1|1|0|0
+Piranha|River|2|9AM 0 4PM & 9PM - 4AM|0|0|0|0|0|1|1|1|1|0|0|0
+Arowana|River|4|4PM - 9AM|0|0|0|0|0|1|1|1|1|0|0|0
+Dorado|River|5|4AM 0 9PM|0|0|0|0|0|1|1|1|1|0|0|0
+Gar|Pond|6|4PM - 9AM|0|0|0|0|0|0|1|1|1|1|0|0
+Arapaima|River|?|4PM - 9AM|0|0|0|0|0|1|1|1|1|0|0|0
+Saddled Bichir|River|4|9PM - 4AM|0|0|0|0|0|1|1|1|1|0|0|0
+Sturgeon|River (Mouth)|6|All day|1|1|1|0|0|0|0|0|1|1|1|1
+Sea butterfly|Sea|1|All day|1|1|1|0|0|0|0|0|0|0|0|1
+Seahorse|Sea|1|All day|0|0|0|1|1|1|1|1|1|1|1|0
+Clownfish|Sea|1|All day|0|0|0|1|1|1|1|1|1|0|0|0
+Surgeonfish|Sea|2|All day|0|0|0|1|1|1|1|1|1|0|0|0
+Butterfly fish|Sea|2|All day|0|0|0|1|1|1|1|1|1|0|0|0
+Napoleonfish|Sea|6|4AM 0 9PM|0|0|0|0|0|0|1|1|0|0|0|0
+Zebra turkeyfish|Sea|3|All day|0|0|0|1|1|0|1|1|1|1|1|0
+Blowfish|Sea|3|6PM - 4AM|1|1|0|0|0|0|0|0|0|0|1|1
+Puffer fish|Sea|3|All day|0|0|0|0|0|0|1|1|1|0|0|0
+Anchovy|Sea|2|4AM - 9PM|1|1|1|1|1|1|1|1|1|1|1|1
+Horse mackerel|Sea|2|All day|1|1|1|1|1|1|1|1|1|1|1|1
+Barred knifejaw|Sea|3|All day|0|0|1|1|1|1|1|1|1|1|1|0
+Sea bass|Sea|5|All day|1|1|1|1|1|1|1|1|1|1|1|1
+Red snapper|Sea|4|All day|1|1|1|1|1|1|1|1|1|1|1|1
+Dab|Sea|3|All day|1|1|1|1|0|0|0|0|0|1|1|1
+Olive Flounder|Sea|5|All day|1|1|1|1|1|1|1|1|1|1|1|1
+Squid|Sea|3|All day|1|1|1|1|1|1|1|1|0|0|0|1
+Moray eel|Sea|5|All day|0|0|0|0|0|0|0|1|1|1|0|0
+Ribbon Eel|Sea|Narrow|All day|0|0|0|0|0|1|1|1|1|1|0|0
+Tuna|Pier|6|All day|1|1|1|1|0|0|0|0|0|0|1|1
+Blue marlin|Pier|6|All day|1|1|1|1|0|0|1|1|1|0|1|1
+Giant Trevally|Pier|5|All day|0|0|0|0|1|1|1|1|1|1|0|0
+Mahi-mahi|Pier|5|All day|0|0|0|0|1|1|1|1|1|1|0|0
+Ocean Sunfish|Sea|? (Fin)|4AM 0 9PM|0|0|0|0|0|0|1|1|1|0|0|0
+Ray|Sea|5|4AM 0 9PM|0|0|0|0|0|0|0|1|1|1|1|0
+Saw Shark|Sea|6 (Fin)|4PM - 9AM|0|0|0|0|0|1|1|1|1|0|0|0
+Hammerhead Shark|Sea|6 (Fin)|4PM - 9AM|0|0|0|0|0|1|1|1|1|0|0|0
+Great White Shark|Sea|6 (Fin)|4PM - 9AM|0|0|0|0|0|1|1|1|1|0|0|0
+Whale shark|Sea|6 (Fin)|All day|0|0|0|0|0|1|1|1|1|0|0|0
+Suckerfish|Sea|? (Fin)|All day|0|0|0|0|0|1|1|1|1|0|0|0
+Football Fish|Sea|4|4PM - 9AM|1|1|1|0|0|0|0|0|0|0|1|1
+Oarfish|Sea|6|All day|1|1|1|1|1|0|0|0|0|0|0|1
+Barreleye|Sea|2|9PM - 4AM|1|1|1|1|1|1|1|1|1|1|1|1
+Coelacanth|Sea (Raining)|6|All day|1|1|1|1|1|1|1|1|1|1|1|1
