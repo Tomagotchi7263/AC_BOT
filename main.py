@@ -17,7 +17,7 @@ class MyClient(discord.Client):
         regText = re.findall(r'\[\{(.*?)\}\]', message.content)
         if len(regText) != 0:
             for match in regText:
-                await message.channel.send(ItemLookup(match))
+                await message.channel.send(ItemLookup(match.lower()))
 
         if '!today' in message.content:
             # TODO: Add daily event functionality

@@ -1,0 +1,41 @@
+Tree branch|NH-Treebranch|Shaking trees|5 
+Wood|NH Wood|Use axe on a tree|60 
+Hardwood|NH-Hardwood|Use axe on a tree|60 
+Softwood|NH-Softwood|Use axe on a tree|60 
+Stone|NH Stone|Hitting rocks, Shaking trees, Fishing, Balloon presents|75 
+Clay|NH-Material Clay|Hitting rocks, Balloon presents|100 
+Iron nugget|NH Ironnugget|Hitting rocks, Balloon presents|375 
+Gold nugget|NH-gold nugget|Hitting rocks, Balloon presents|10,000 
+Acorn|NH-Material acorn|Shaking hardwood trees|200 
+Pinecone|NH-Material pinecone|Shaking cedar trees|?
+Bamboo piece|NH Bamboopiece|Use axe on bamboo|80 
+Young spring bamboo|NH-Young spring bamboo|Use axe on bamboo|200 
+Bamboo shoot|File:NH-Bamboo shoot.png|Digging near bamboo|250 
+Clump of weeds|NH Weed|Pulling off of ground|10 
+Cherry-blossom petal|NH-Cherry-blossom petal|?|?
+Flowers|NA|Pulling off of ground|Varies
+Cherry|NA|Purchase, Shake from trees|100(local), 500(foreign)
+Coconut|NA|Shake from trees|500
+Orange|NA|Purchase, Shake from trees|100(local), 500(foreign)
+Peach|NA|Purchase, Shake from trees|100(local), 500(foreign)
+Pear|NA|Purchase, Shake from trees|100(local), 500(foreign)
+Apple|NA|Purchase, Shake from trees|100(local), 500(foreign)
+Wasp nest|NH-Wasp nest|Shaking trees|300 
+Rusted part|NH-Rusted part|Recycling bin after a Gulliver visit|10
+Boot|File:NH-trash boot.png|Fishing|10 
+Old tire|NH-Old tire|Fishing|10 
+Empty can|File:NH-Empty can.png|Fishing|10 
+Star fragment|NH-Star fragment|Beach the day after wishing on a star|250 
+Large star fragment|NH-Large star fragment|Beach the day after wishing on a star|2,500 
+Aquarius star fragment|NH-Aquarius star fragment|Beach the day after wishing on a star|500
+Aries star fragment|NH-Aries star fragment|Beach the day after wishing on a star|500 
+Cancer star fragment|NH-Cancer star fragment|Beach the day after wishing on a star|500
+Capricornus star fragment|NH-Capricornus star fragment|Beach the day after wishing on a star|500
+Gemini star fragment|NH-Gemini star fragment|Beach the day after wishing on a star|500
+Leo star fragment|NH-Leo star fragment|Beach the day after wishing on a star|500
+Libra star fragment|NH-Libra star fragment|Beach the day after wishing on a star|500
+Pisces star fragment|NH-Pisces star fragment|Beach the day after wishing on a star|500
+Sagittarius star fragment|NH-Saggitarius star fragment|Beach the day after wishing on a star|500
+Scorpio star fragment|NH-Scorpio star fragment|Beach the day after wishing on a star|500
+Taurus star fragment|NH-Taurus star fragment|Beach the day after wishing on a star|500
+Virgo star fragment|NH-Virgo star fragment|Beach the day after wishing on a star|500

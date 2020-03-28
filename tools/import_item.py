@@ -60,7 +60,7 @@ def import_fish():
         json.dump(fishData, f)
 
 def import_bugs():
-    bugsPath = 'C:\\Users\\shrot\\Documents\\CodeProjects\\AC_Bot\\data\\bugs.json'
+    bugsPath = 'C:\\Users\\shrot\\Documents\\CodeProjects\\AC_Bot\\data\\bug.json'
     itemPath = 'C:\\Users\\shrot\\Documents\\CodeProjects\\AC_Bot\\data\\item.json'
     bugsData = None
     itemData = None
@@ -106,7 +106,42 @@ def import_bugs():
     with open(bugsPath, 'w') as f:
         json.dump(bugsData, f)
 
+def import_crafting():
+    crafPath = 'C:\\Users\\shrot\\Documents\\CodeProjects\\AC_Bot\\data\\crafting.json'
+    itemPath = 'C:\\Users\\shrot\\Documents\\CodeProjects\\AC_Bot\\data\\item.json'
+    crafData = None
+    itemData = None
+    itemCount = 0
 
-import_items()
-import_fish()
-import_bugs()
+    with open(crafPath) as f:
+        crafData = json.load(f)
+    with open(itemPath) as f:
+        itemData = json.load(f)
+    itemCount = len(itemData)
+
+    with open('./tools/crafting_add.txt') as f:
+        for line in f:
+            props = line.rstrip().split('|')
+            itemData[props[0].lower()] = {
+                "id": itemCount,
+                "name": props[0].lower(),
+                "price": props[3],
+                "type": "crafting"
+            }
+            crafData[props[0].lower()] = {
+                "id": itemData[props[0].lower()]["id"],
+                "name": props[0].lower(),
+                "acquire":props[2]
+            }
+            itemCount += 1
+    
+    with open(itemPath, 'w') as f:
+        json.dump(itemData, f)
+    with open(crafPath, 'w') as f:
+        json.dump(crafData, f)
+
+
+import_crafting()
+#import_items()
+#import_fish()
+#mport_bugs()
