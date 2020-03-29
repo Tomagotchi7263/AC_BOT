@@ -102,8 +102,10 @@ class StalkMarket:
                             returnString += "%s has not registered their turnip price today!\n" % userObj.display_name
             else:
                 returnString = "%s is not a recognized command! %s" % (commands[1], helpMsg)
+        elif len(commands) == 1:
+            returnString = "You didn't supply any arguments! %s" % helpMsg
         else:
-            returnString = "You supplied too many arguments! %s" % helpMsg
+            returnString = "You supplied too many arguments! %s" % helpMsg 
         #return(message.author)
         return returnString
     

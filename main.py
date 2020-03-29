@@ -40,11 +40,11 @@ class MyClient(discord.Client):
 
         if message.content[0] == "!":
             # TODO: Add daily event functionality
-            if "!today" in message.content:
+            if message.content.split(' ')[0] == "!today":
                 await message.channel.send('TODO: ADD DAILY MESSAGE')
-            elif "!help" in message.content:
+            elif message.content.split(' ')[0] == "!help":
                 await message.channel.send("TODO: ADD HELP MESSAGE")
-            elif "!turnip" in message.content:
+            elif message.content.split(' ')[0] == "!turnip":
                 stalk = StalkMarket()
                 await message.channel.send(stalk.Process(message, client))
 
