@@ -1,9 +1,16 @@
+# Local Imports
 from itemLookup import ItemLookup
 from stalkMarket import StalkMarket
+# PIP Imports
 import discord
+from discord.ext import commands, tasks
+import asyncio
+# Base Imports
 import re
+from datetime import datetime, date, timedelta
 
 TOKEN = 'NjkyMDA0Nzc4NTEwOTA5NDgx.XnoN7g.F69NFfJcigVwsOTu7IN_J5uGz4o'
+ANNOUNCEMENT_ID = 693870910448336956
 
 class MyClient(discord.Client):
     async def on_ready(self):
@@ -25,6 +32,7 @@ class MyClient(discord.Client):
             print("Writing new user data")
             with open('./data/users.json', 'w') as f:
                 json.dump(masterData, f)
+        self.dailyMessage.start()
         print('Logged on as', self.user)
 
     async def on_message(self, message):
@@ -50,6 +58,22 @@ class MyClient(discord.Client):
 
         if message.content == 'ping':
             await message.channel.send('pong')
+    
+    @tasks.loop(hours=24)
+    async def dailyMessage(self):
+        messageChannel = client.get_channel(ANNOUNCEMENT_ID)
+        await messageChannel.send("This a test of my automated daily message!")
+        pass
+
+    @dailyMessage.before_loop
+    async def before(self):
+        await client.wait_until_ready()
+        now = datetime.now()
+        tomorrow = date.today() + timedelta(days=1) 
+        next = datetime(tomorrow.year, tomorrow.month, tomorrow.day, 8, 0)
+        diff = next - now
+        print("Automated message goes out in " + str(diff.total_seconds()) + " seconds...")
+        await asyncio.sleep(diff.total_seconds())
 
 client = MyClient()
 client.run(TOKEN)
