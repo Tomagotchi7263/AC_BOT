@@ -4,7 +4,7 @@ class StalkMarket:
         from datetime import date, timedelta, datetime
         self.masterData = None
         self.date = str(date.today())                           # Today's date YYYY-MM-DD
-        self.yesterday = date.today() - timedelta(days=1)       # Yesterday's date YYYY-MM-DD
+        self.yesterday = str(date.today() - timedelta(days=1))  # Yesterday's date YYYY-MM-DD
         self.day = datetime.today().strftime('%A')              # Day of the week
         with open('./data/stalk.json') as f:
             self.masterData = json.load(f)
