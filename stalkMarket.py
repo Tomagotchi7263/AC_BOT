@@ -23,7 +23,7 @@ class StalkMarket:
                         "owns": 0 if self.day == "Sunday" else self.masterData['data'][self.yesterday][user]["owns"],   # Grabs yesterday's turnip count unless it is Sunday
                         "price": 0
                     }
-                except IndexError:
+                except KeyError:
                     # this except is here for new users that didnt have an entry the day before
                     self.masterData['data'][self.date][user] = {
                         "owns": 0,
