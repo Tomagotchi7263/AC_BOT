@@ -76,6 +76,7 @@ class MyClient(discord.Client):
         await asyncio.sleep(diff.total_seconds())
 
 
+# Change Path to a txt file with your bot token in it
 with open('C:/Users/shrot/Documents/CodeProjects/DiscordToken.txt') as f:
     token = f.readline().strip()
 client = MyClient()
