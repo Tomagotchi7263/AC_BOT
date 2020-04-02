@@ -9,7 +9,7 @@ import asyncio
 import re
 from datetime import datetime, date, timedelta
 
-TOKEN = 'NjkyMDA0Nzc4NTEwOTA5NDgx.XnoN7g.F69NFfJcigVwsOTu7IN_J5uGz4o'
+token = ''
 ANNOUNCEMENT_ID = 693870910448336956
 
 class MyClient(discord.Client):
@@ -75,5 +75,8 @@ class MyClient(discord.Client):
         print("Automated message goes out in " + str(diff.total_seconds()) + " seconds...")
         await asyncio.sleep(diff.total_seconds())
 
+
+with open('C:/Users/shrot/Documents/CodeProjects/DiscordToken.txt') as f:
+    token = f.readline().strip()
 client = MyClient()
-client.run(TOKEN)
+client.run(token)
